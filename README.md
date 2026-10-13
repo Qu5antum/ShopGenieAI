@@ -5,11 +5,6 @@ creating advertising concepts, images, and videos. The interface is built with
 React and TypeScript and bundled with Vite. The catalog is a static TypeScript
 array.
 
-> **Important:** The Manus and fal.ai integrations work only when running the
-> local Vite development server. Firebase Hosting serves the static interface
-> and does not run the local API. A separate server-side backend is required to
-> enable generation on a deployed site.
-
 ## Features
 
 - Homepage with product search, category filters, and a demo catalog.
